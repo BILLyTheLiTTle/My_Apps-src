@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="intro">This application is trying to collect all available 
+        languages all over the world and create one unique language for 
+        the Android default TTS Engine. The main purpose is to use the default 
+        Android TTS Engine to speak every language!\n\n</string>
+    <string name="app_name">Universal TTS</string>
+    <string name="textToSpeech">Write your text here:</string>
+    <string name="speakButton">Speak</string>
+
+</resources>
