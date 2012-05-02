@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello Activity 3D!</string>
+    <string name="button_text">Hello Button 3D!</string>
+    <string name="app_name">Application 3D-LR</string>
+	<string name="planet_prompt">Choose a planet</string>
+	<string name="desc">An Inmage Description</string>
+	
+    <string-array name="planets_array">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </string-array>
+</resources>
